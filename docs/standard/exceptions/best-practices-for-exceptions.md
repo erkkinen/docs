@@ -82,7 +82,7 @@ When a custom exception is necessary, name it appropriately and derive it from t
 
 Use at least the three common constructors when creating your own exception classes: the default constructor, a constructor that takes a string message, and a constructor that takes a string message and an inner exception.
 
-* <xref:System.Exception.%23ctor> , which uses default vales.  
+* <xref:System.Exception.%23ctor> , which uses default values.  
   
 * <xref:System.Exception.%23ctor%28System.String%29>, which accepts a string message.  
   
